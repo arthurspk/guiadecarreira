@@ -103,6 +103,7 @@
 - [Novorésumé](https://novoresume.com/) — Construtor de currículo gratuito com modelos otimizados para leitura por recrutadores e sistemas ATS.
 - [Enhancv](https://enhancv.com/) — Construtor de currículo com modelos modernos e dicas específicas para carreiras em tecnologia.
 - [Jobscan — ATS Resume Checker](https://www.jobscan.co/) — Compara seu currículo com a descrição da vaga e aponta o quanto ele passaria por um sistema ATS, com recursos de IA atualizados recentemente.
+- [ResumeAI](https://withresumeai.com/) — Construtor de currículo com IA e ATS checker gratuito (3/dia sem conta, 10/dia com conta gratuita); State of ATS 2026 (738 grandes empregadores, 704 verificados; Workday 37,9%).
 - [Como criar um portfólio de programação — Alura](https://www.alura.com.br/artigos/como-criar-portfolio-programacao) — Guia da Alura com passo a passo para montar um portfólio de projetos que chama atenção de recrutadores.
 - [Building a Developer Portfolio — freeCodeCamp](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/) — Tutorial gratuito (em inglês) sobre como construir um site de portfólio do zero.
 - [Frontend Mentor](https://www.frontendmentor.io/) — Desafios reais de front-end com design pronto, ótimos para gerar projetos de portfólio com qualidade visual.
